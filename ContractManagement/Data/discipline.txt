@@ -1,0 +1,16 @@
+ASC
+35
+Optionala
+Vancea
+SD
+40
+Optionala
+Minuta
+SDA
+15
+Obligatorie
+Minuta
+OOP
+32
+Obligatorie
+Istvan
